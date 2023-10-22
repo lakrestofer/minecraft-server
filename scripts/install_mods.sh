@@ -1,2 +1,2 @@
 #!/bin/sh
-wget -P mods -i urls.txt
+wget -nc -P mods -i urls.txt
